@@ -112,8 +112,8 @@ projects:
 
 publications:
     title: Courses
-    intro: |
-      Waiting to be filled
+    # intro: |
+    #   Waiting to be filled
     papers:
       - title: High-Performance Computer Architecture
         # link: "#"
