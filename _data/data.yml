@@ -29,12 +29,14 @@ sidebar:
     languages:
       - idiom: Java
 #         level: Native
-
       - idiom: Python
 #         level: Professional
-
       - idiom: C/C++
 #         level: Professional
+      - idiom: HTML
+      - idiom: CSS
+      - idiom: JavaScript
+      - idiom: Labview
 
 career-profile:
     title: Career Profile
@@ -55,11 +57,11 @@ education:
         Minor in Robotics
           - GPA 4.0 / 4.0
 
-    # - degree: BEng in Mechatronics Engineering
-    #   university: Harbin Engineering University
-    #   time: 2009 - 2013
-    #   details: |
-    #       - GPA 85.1%
+    - degree: BEng in Mechatronics Engineering
+      university: Harbin Engineering University
+      time: 2009 - 2013
+      details: |
+          - GPA 85.1%
 
 experiences:
     - role: Mechatronics Engineer
@@ -109,27 +111,28 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Courses
     intro: |
       Waiting to be filled
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: High-Performance Computer Architecture
+        # link: "#"
+        # authors: Donald E. Knuth
+        # conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Computer Networks
+        # link: "#"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: The Web Developer Bootcamp 2021
+        # link: "#"
+        # authors: Edgar T. Irons
+        # conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    # title: Skills &amp; Proficiency
+    title: Courses
 
     toolset:
       - name: Python & Django
