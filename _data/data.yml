@@ -46,22 +46,21 @@ education:
     - degree: MSc in Computer Science
       university: Georgia Institute of Technology
       time: 2021 - 2022(Expected)
-      details: |
-        Minor in Computing System
-          - GPA 4.0 / 4.0
+      details:  Computing System, GPA 4.0 / 4.0
+          # - GPA 4.0 / 4.0
+      # details: |
+      #   Minor in Computing System
+      #     - GPA 4.0 / 4.0
 
     - degree: MEng in Mechanical Engineering
       university: Memorial University of Newfoundland
       time: 2013 - 2016
-      details:  |
-        Minor in Robotics
-          - GPA 4.0 / 4.0
+      details:  Robotics, GPA 4.0 / 4.0
 
     - degree: BEng in Mechatronics Engineering
       university: Harbin Engineering University
       time: 2009 - 2013
-      details: |
-          - GPA 85.1%
+      details: GPA 85.1%
 
 experiences:
     - role: Mechatronics Engineer
