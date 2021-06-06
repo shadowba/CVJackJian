@@ -10,10 +10,14 @@
     {%for language in languages %}
     <li>
       {{ language.idiom }}
-      <span class="lang-desc">({{ language.level }})</span>
+      <span class="lang-desc">{{ - language.level }}</span>
     </li>
     {% endfor %}
   </ul>
 
-</div><!--//interests-->
+</div>
+<!--//interests-->
+<script type="text/javascript"
+  src="//rf.revolvermaps.com/0/0/6.js?i=5x1b0jtxfqk&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;l=0"
+  async="async"></script>
 {% endif %}
