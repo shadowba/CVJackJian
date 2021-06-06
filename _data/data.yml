@@ -51,8 +51,7 @@ education:
     - degree: MEng in Mechanical Engineering
       university: Memorial University of Newfoundland
       time: 2013 - 2016
-      details:  |
-        Minor in Robotics
+      details: Minor in Robotics
           - GPA 4.0 / 4.0
 
     - degree: BEng in Mechatronics Engineering
@@ -62,31 +61,49 @@ education:
           - GPA 85.1%
 
 experiences:
-    - role: Mechatronics Engineer
-      time: 2020 - 2021
-      company: CMP Group, Vancouver
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-        Waiting to be filled
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Project Engineer
-      time: 2018 - 2019
-      company: Ocean Networks Canada, Victoria
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        Waiting to be filled
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: Project Engineer
-      time: 2016 - 2018
-      company: SubC Imaging, Clarenville
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        Waiting to be filled
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
 projects:
     title: Projects
     intro: >
-      Waiting to be filled
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -111,7 +128,9 @@ projects:
 publications:
     title: Publications
     intro: |
-      Waiting to be filled
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
         link: "#"
