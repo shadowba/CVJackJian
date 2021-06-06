@@ -1,4 +1,5 @@
-{% assign education = site.data.data.education %}
+<!-- {% assign education = site.data.data.education %} -->
+{% assign education = site.data.data.sidebar.education %}
 {% if education %}
 {% if site.data.data.sidebar.education %}
 <div class="education-container container-block">
@@ -48,7 +49,7 @@
     <div class="details">
       {{ graduation.details | markdownify }}
     </div>
-    <!--//details-->
+    <!-- //details -->
     {% endif %}
 
   </div>
