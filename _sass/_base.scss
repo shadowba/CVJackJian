@@ -109,6 +109,7 @@ p {
     }
     .education-container {
         .item {
+            color: rgba(256, 256, 256, 0.6);
             margin-bottom: 15px;
             &:last-child {
                 margin-bottom: 0;
@@ -191,15 +192,11 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: $text-color;
+        color: $text-grey;
     }
-    .company{
-        margin-bottom: 10px;
-        color: $text-color;
-    }
-    .university {
+    .company, .university {
         margin-bottom: 9px;
-        color: $text-color;
+        color: $text-grey;
     }
 
     .project-title {

@@ -70,8 +70,6 @@ experiences:
         - Design the control system and firmware for the BLDC smart pump; estimated OEM sells up to 1000+ units per year.
         - Architect the control application on test benches for hydraulic gear pump and piston pump testing; test bench firmware and software GUI helped increase the quality rate by 30%.
         - Provided design support to improve existing autopilot products such as hydraulic helm.
-            - Bullet point
-            - Bullet point
     - role: Project Engineer
       time: 2018 - 2019
       company: Ocean Networks Canada, Victoria
@@ -79,8 +77,6 @@ experiences:
         - Maintained the firmware for the smart power relays, keeping monitoring the power consumption for multiple subsea sensors and cameras.
         - Prototyped the subsea LED power board and initial architecture.
         - Cooperating with software team on the communication protocol for the smart relays.
-          - Bullet point
-          - Bullet point
     - role: Project Engineer
       time: 2016 - 2018
       company: SubC Imaging, Clarenville
@@ -88,8 +84,6 @@ experiences:
         - Researched the customized solutions based on the customers’ requirements; completion of over a half-million valued projects
         - Maintained and debugged the firmware for the subsea camera and other devices.
         - Assisted in the project management, quality control and bill of materials management.
-          - Bullet point
-          - Bullet point
 projects:
     title: Projects
     # intro: >
@@ -97,15 +91,20 @@ projects:
     assignments:
       - title: YelpCamp Website
         # link: "#hook"
-        tagline:"- Created Yelp-like dynamic web app for users to rate, comment, and share campgrounds. | - Technologies: HTML, CSS, JavaScript, Node.js/Express, MongoDB, Bootstrap"
+        # tagline:"- Created Yelp-like dynamic web app for users to rate, comment, and share campgrounds. | - Technologies: HTML, CSS, JavaScript, Node.js/Express, MongoDB, Bootstrap"
+        details: |
+        - Created Yelp-like dynamic web app for users to rate, comment, and share campgrounds. 
+        - Technologies: HTML, CSS, JavaScript, Node.js/Express, MongoDB, Bootstrap
+      - title: DevStudio
+        # link: "#"
+        details: |
+        - Simulation about router algorithm, including spanning tree and distance vector.
+        - Technologies: Python, MiniNet
 
       - title: DevStudio
         # link: "#"
-        tagline:"- Simulation about router algorithm, including spanning tree and distance vector. | - Technologies: Python, MiniNet"
-
-      - title: DevStudio
-        # link: "#"
-        tagline:"- Simulation about Cache,and CPU mechanisms in both single and multi-core systems. | - Technologies: C++, SuperESCalar Simulator"
+        - Simulation about Cache,and CPU mechanisms in both single and multi-core systems.
+        - Technologies: C++, SuperESCalar Simulator
 
 publications:
     title: Courses
