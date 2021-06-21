@@ -101,8 +101,7 @@ projects:
 
       - title: DevStudio
         # link: "#"
-        tagline:
-        "Simulation about router algorithm, including spanning tree and distance vector."
+        tagline:"Simulation about router algorithm, including spanning tree and distance vector."
         "Technologies: Python, MiniNet"
 
       - title: DevStudio
