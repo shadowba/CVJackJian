@@ -109,21 +109,20 @@ p {
     }
     .education-container {
         .item {
-            color: rgba(256, 256, 256, 0.6);
             margin-bottom: 15px;
             &:last-child {
                 margin-bottom: 0;
             }
         }
         .meta {
-            color: rgba(256, 256, 256, 0.6);
-            font-weight: 500;
+            // color: rgba(256, 256, 256, 0.6);
+            font-weight: 400;
             margin-bottom: 0px;
             margin-top: 0;
         }
         .time {
-            color: rgba(256, 256, 256, 0.6);
-            font-weight: 500;
+            // color: rgba(256, 256, 256, 0.6);
+            font-weight: 400;
             margin-bottom: 0px;
         }
     }
@@ -194,7 +193,7 @@ p {
         top: 0;
         color: $text-grey;
     }
-    .company, .university {
+    .company .university {
         margin-bottom: 9px;
         color: $text-grey;
     }
