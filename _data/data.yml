@@ -92,19 +92,17 @@ projects:
       - title: YelpCamp Website
         # link: "#hook"
         # tagline:"- Created Yelp-like dynamic web app for users to rate, comment, and share campgrounds. | - Technologies: HTML, CSS, JavaScript, Node.js/Express, MongoDB, Bootstrap"
-        tagline: |
-        - Created Yelp-like dynamic web app for users to rate, comment, and share campgrounds. 
-        - Technologies: HTML, CSS, JavaScript, Node.js/Express, MongoDB, Bootstrap
+        tagline: "- Created Yelp-like dynamic web app for users to rate, comment, and share campgrounds. "
+        tagline: "- Technologies: HTML, CSS, JavaScript, Node.js/Express, MongoDB, Bootstrap"
       - title: Network Simulation
         # link: "#"
-        tagline: |
-        - Simulation about router algorithm, including spanning tree and distance vector.
-        - Technologies: Python, MiniNet
+        tagline: "- Simulation about router algorithm, including spanning tree and distance vector."
+        tagline: "- Technologies: Python, MiniNet"
 
       - title: Computer Architecture Simulation
         # link: "#"
-        - Simulation about Cache,and CPU mechanisms in both single and multi-core systems.
-        - Technologies: C++, SuperESCalar Simulator
+        tagline: "- Simulation about Cache,and CPU mechanisms in both single and multi-core systems."
+        tagline: "- Technologies: C++, SuperESCalar Simulator"
 
 publications:
     title: Courses
