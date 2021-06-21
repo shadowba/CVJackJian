@@ -97,19 +97,17 @@ projects:
     assignments:
       - title: YelpCamp Website
         # link: "#hook"
-        tagline: |
-        "Created Yelp-like dynamic web app for users to rate, comment, and share campgrounds. "
-        "Technologies: HTML, CSS, JavaScript, Node.js/Express, MongoDB, Bootstrap"
+        tagline:"Created Yelp-like dynamic web app for users to rate, comment, and share campgrounds. | Technologies: HTML, CSS, JavaScript, Node.js/Express, MongoDB, Bootstrap"
 
       - title: DevStudio
         # link: "#"
-        tagline: |
+        tagline:
         "Simulation about router algorithm, including spanning tree and distance vector."
         "Technologies: Python, MiniNet"
 
       - title: DevStudio
         # link: "#"
-        tagline: |
+        tagline:
         "Simulation about Cache,and CPU mechanisms in both single and multi-core systems."
         "Technologies: C++, SuperESCalar Simulator"
 
