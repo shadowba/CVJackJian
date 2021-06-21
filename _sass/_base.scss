@@ -116,14 +116,14 @@ p {
             }
         }
         .meta {
-            color: rgba(256, 256, 256, 0.2);
+            color: rgba(256, 256, 256, 0.6);
             font-size: 18px;
             font-weight: 400;
             margin-bottom: 0px;
             margin-top: 0;
         }
         .time {
-            color: rgba(256, 256, 256, 0.2);
+            color: rgba(256, 256, 256, 0.6);
             font-size: 16px;
             font-weight: 400;
             margin-bottom: 0px;
@@ -196,7 +196,7 @@ p {
         top: 0;
         color: $text-grey;
     }
-    .company .university {
+    .company, .university {
         margin-bottom: 9px;
         color: $text-grey;
     }
